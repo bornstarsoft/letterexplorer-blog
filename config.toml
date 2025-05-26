@@ -1,0 +1,10 @@
+
+baseURL = "https://letterexplorer-blog.pages.dev/"
+languageCode = "en-us"
+title = "LetterExplorer Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]

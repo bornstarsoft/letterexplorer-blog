@@ -1,7 +1,7 @@
 
 baseURL = "https://letterexplorer.com/"
 languageCode = "en-us"
-title = "LetterExplorer Blog"
+title = "LetterExplorer"
 theme = "ananke"
 paginate = 12
 enableRobotsTXT = true
